@@ -103,9 +103,5 @@
     "react",
     "reactjs",
     "React Vertical Timeline"
-  ],
-  "pre-push": [
-    "test",
-    "test:lint"
   ]
 }
